@@ -1,0 +1,13 @@
+{
+  "$schema": "https://codesandbox.io/schemas/tasks.json",
+  "tasks": {
+    "dev-server": {
+      "name": "Start Server",
+      "command": "yarn start",
+      "preview": {
+        "port": 8080,
+        "prLink": "direct"
+      }
+    }
+  }
+}
